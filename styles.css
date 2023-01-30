@@ -6,12 +6,6 @@ body {
   line-height: 1;
 }
 
-/* h2 {
-  text-align: center;
-  color: rgb(240, 34, 34);
-  margin-top: 70px;
-} */
-
 .app-body {
   text-align: center;
   background-color: #282c34;
@@ -78,9 +72,6 @@ h3 {
 
 ul {
   display: flex;
-  /* justify-content: center;
-  align-items: center;
-  height: 100vh; */
   margin: 0;
   padding: 0;
 }
